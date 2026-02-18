@@ -1,0 +1,7 @@
+{
+  "name": "Aureanna - Portfolio Creativo",
+  "description": "Sito web professionale di Aureanna, specializzata in fashion design e soluzioni grafiche contemporanee.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
